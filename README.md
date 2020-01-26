@@ -28,8 +28,8 @@ after task 1, 2 and 3
 Create the HTML front end to see the displayed results using 
 jsp and html(<html>
 <table><th>ETF holdings</th>
-  <tr><th>ETF Name</th><th>Country Weight</th><th>Sector Weight</th><th>holdings</th></tr>
-  <tr><td>Etf Name></td><td>0%</td><td>0%</td><td>0.00%</td></tr>
+  <tr><th>ETF Name</th><th>Country Weight</th><th>Sector Weight</th><th>holdings</th><th>Fund Desc Info</th></tr>
+  <tr><td>Etf Name></td><td>0%</td><td>0%</td><td>0.00%</td><td>Anything</td></tr>
   
 </table></html>) !
 
