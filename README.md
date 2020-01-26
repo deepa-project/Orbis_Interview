@@ -26,5 +26,10 @@ Once task 1 and task 2 have been acheived
 Task 4:
 after task 1, 2 and 3
 Create the HTML front end to see the displayed results using 
-jsp and html(<table><th></th><tr><td></td></tr></table>) !
+jsp and html(<html>
+<table><th>ETF holdings</th>
+  <tr><th>ETF Name</th><th>Country Weight</th><th>Sector Weight</th><th>holdings</th></tr>
+  <tr><td>Etf Name></td><td>0%</td><td>0%</td><td>0.00%</td></tr>
+  
+</table></html>) !
 
