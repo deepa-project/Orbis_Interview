@@ -32,4 +32,4 @@ jsp and html(<html>
   <tr><td>Etf Name></td><td>0%</td><td>0%</td><td>0.00%</td><td>Anything</td></tr>
   
 </table></html>) !
-
+<iframe src="https://giphy.com/embed/4wycJl8eXkTOU" width="480" height="422" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chew-4wycJl8eXkTOU">via GIPHY</a></p>
